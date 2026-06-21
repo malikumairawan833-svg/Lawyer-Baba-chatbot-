@@ -1,4 +1,4 @@
-# Advanced Lawyer Baba Chatbot
+# Lawyer Baba Chatbot
 
 ## Project Overview
 Advanced Lawyer Baba Chatbot is a Python-based chatbot that provides information about a lawyer, case details, court information, hearing dates, judges, fees, and contact details.
